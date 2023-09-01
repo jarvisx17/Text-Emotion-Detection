@@ -54,8 +54,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-We acknowledge the contributions of the open-source community and the developers of various Python libraries and machine learning algorithms that made this project possible.
+We acknowledge the contributions of the open-source community and the developers of various Python libraries and machine-learning algorithms that made this project possible.
 
 ---
 
-Feel free to explore the Jupyter Notebook to delve into the implementation of Text Emotion Detection with Machine Learning using Python. If you have any questions or encounter any issues, please don't hesitate to reach out to the project maintainers.
+Feel free to explore the Jupyter Notebook to delve into the implementation of Text Emotion Detection with Machine Learning using Python. If you have any questions or encounter any issues, please don't hesitate to reach out to me.
