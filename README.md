@@ -1,5 +1,6 @@
 # Text Emotion Detection
 
+<img src="https://s.hdnux.com/photos/01/14/24/12/20005563/23/1200x0.jpg" alt="Emotions" width="100%" height="400px">
 
 
 Emotions can be expressed in various forms, including facial expressions, gestures, speech, and text. Detecting emotions in text is a content-based classification problem, and in this project, we will explore how to tackle text emotion detection using machine learning in Python.
